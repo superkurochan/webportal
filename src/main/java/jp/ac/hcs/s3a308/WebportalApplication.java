@@ -1,4 +1,4 @@
-package jp.ac.hcs.sXaYZZ;
+package jp.ac.hcs.s3a308;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
